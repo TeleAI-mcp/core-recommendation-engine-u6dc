@@ -1,2 +1,3 @@
-# core-recommendation-engine-u6dc
-Automated issue comment bot repository
+# Core Recommendation Engine U6Dc
+
+Automated issue comment bot repository.
